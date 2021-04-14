@@ -194,10 +194,10 @@ public class Homework1 {
         	}
         }
         System.out.println("Стоимость расходов на Класс1: " + general_class1_sum + " Р");
-		System.out.println("Стоимость расходов на Класс2: " + general_class2_sum + " �");
-		System.out.println("Стоимость расходов на Класс3: " + general_class3_sum + " �");
-		System.out.println("Стоимость расходов на Класс4: " + general_class4_sum + " �");
-		System.out.println("Общая стоимость расходов ГСМ: " + gsm_sum + " �");
+		System.out.println("Стоимость расходов на Класс2: " + general_class2_sum + " Р");
+		System.out.println("Стоимость расходов на Класс3: " + general_class3_sum + " Р");
+		System.out.println("Стоимость расходов на Класс4: " + general_class4_sum + " Р");
+		System.out.println("Общая стоимость расходов ГСМ: " + gsm_sum + " Р");
 		System.out.println("Тип авто имеющий наибольшую стоимость расходов: " + type_auto_max);
 		System.out.println("Тип авто имеющий наименьшую стоимость расходов: " + type_auto_min);
 
